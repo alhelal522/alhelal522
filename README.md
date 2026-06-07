@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Muhammad AL Helal 👋
 
-<!--
-**alhelal522/alhelal522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+UI/UX Designer & Front-End Developer. Passionate about building dynamic, user-friendly sites with React & Tailwind CSS. Turning designs into pixel-perfect code.
 
-Here are some ideas to get you started:
+## 🚀 My Best Projects (Live Preview)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project Name | Live Link | Source Code |
+| :--- | :--- | :--- |
+| 🌐 Dorik AI Template | [Live Demo 🚀](https://alhelal522.github.io/dorik-ai-tem-2/) | [GitHub Code 💻](https://github.com/alhelal522/dorik-ai-tem-2) |
+| 🎓 Education Template | [Live Demo 🚀](https://alhelal522.github.io/rrf-template-1-education/) | [GitHub Code 💻](https://github.com/alhelal522/rrf-template-1-education) |
+| ✍️ RRF Web Exam Project | [Live Demo 🚀](https://alhelal522.github.io/rrf-first-exam/) | [GitHub Code 💻](https://github.com/alhelal522/rrf-first-exam) |
+| 💼 Business Agency Template | [Live Demo 🚀](https://alhelal522.github.io/rrf-template--3-8/) | [GitHub Code 💻](https://github.com/alhelal522/rrf-template--3-8) |
+
+## 🛠️ Skills & Technologies
+- **Design:** UI/UX Design, Figma, Website Mockups
+- **Frontend:** HTML5, CSS3, JavaScript, Responsive Design
+- **Tools:** GitHub, VS Code
+
+## 📬 Connect with Me
+- **LinkedIn:** [Muhammad AL Helal](https://www.linkedin.com/in/alhelal522)
+- **Email:** alhelal522@gmail.com
