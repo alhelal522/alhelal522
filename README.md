@@ -40,12 +40,12 @@ I'm **Muhammad AL Helal**, a passionate UI/UX Designer & Front-End Developer. Pa
 
 ---
 
-- 💬 Ask me about **UI/UX Design, React, Tailwind CSS, and Front-End Development.**
-- 🚀 Specialized in **turning designs into pixel-perfect, responsive web pages.**
-- 🌱 I’m currently exploring **advanced frontend architectures & modern web tools.**
+- 💬 Ask me about **Web Development, Frontend & Backend Technologies, WordPress Customization, UI/UX Design, and Responsive Web Design.**
+- 🚀 Specialized in **turning creative designs into pixel-perfect responsive web pages, SEO Optimization, Meta Ads Management, and Google Ads Campaigning.**
+- 🌱 I’m currently learning **Mobile App Development, Backend Development, and Modern Frameworks.**
 - 🗃️ [All of my repositories are available at Github](https://github.com/alhelal522?tab=repositories)
 - 📧 How to reach me: Gmail [alhelal522@gmail.com](mailto:alhelal522@gmail.com)
-- * 📞 Phone: [01918833499](tel:01918833499)
+- 📞 Phone: [01918833499](tel:01918833499)
 
 ---
 
